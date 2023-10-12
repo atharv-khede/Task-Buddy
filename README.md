@@ -2,7 +2,7 @@
 This Django-based web application is used to store and delete the tasks you need to do.
 
 # Project link(Deployed using azure):
-[Task-Buddy](yourtaskbuddy.azurewebsites.net)
+[Task-Buddy](https://yourtaskbuddy.azurewebsites.net)
 
 # Azure services used:
 azure web app + databases, azure hosting, and deployment options.
